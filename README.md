@@ -137,9 +137,11 @@ Yo, welcome ke LaraDoy! Framework PHP simpel tapi powerful, terinspirasi dari La
 
 Mau kontribusi? Jangan ragu buat bikin pull request atau buka issue!
 
+atau kalian bisa email ke: hadooyy90@gmail.com kalau punya pertanyaan atau sekedar pengen ngobrol soal framework ini!
+
 ## License
 
-HadiFramework di-license di bawah MIT License. Bebas dipake, dimodif, didistribusiin. Tapi inget, no warranty ya!
+LaraDoy di-license di bawah Apache2.0 License. Bebas dipake, dimodif, didistribusiin. Tapi inget, no warranty ya!
 
 ---
 
