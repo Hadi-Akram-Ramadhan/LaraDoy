@@ -1,6 +1,6 @@
-# HadiFramework
+# LaraHad
 
-Yo, welcome ke HadiFramework! Framework PHP simpel tapi powerful, terinspirasi dari Laravel. Perfect buat lo yang pengen bikin web app cepet tanpa ribet.
+Yo, welcome ke LaraHad! Framework PHP simpel tapi powerful, terinspirasi dari Laravel. Perfect buat lo yang pengen bikin web app cepet tanpa ribet.
 
 ## Fitur Utama
 
