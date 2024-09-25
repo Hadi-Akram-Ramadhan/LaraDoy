@@ -19,7 +19,7 @@ Yo, welcome ke LaraDoy! Framework PHP simpel tapi powerful, terinspirasi dari La
 
 2. Masuk ke direktori project:
    ```
-   cd hadiframework
+   cd LaraDoy
    ```
 
 3. Setup database lo di `config/database.php`:
