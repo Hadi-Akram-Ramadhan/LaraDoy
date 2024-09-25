@@ -14,7 +14,7 @@ Yo, welcome ke LaraDoy! Framework PHP simpel tapi powerful, terinspirasi dari La
 
 1. Clone repo ini:
    ```
-   git clone https://github.com/hadi/hadiframework.git
+   git clone https://github.com/Hadi-Akram-Ramadhan/LaraDoy.git
    ```
 
 2. Masuk ke direktori project:
