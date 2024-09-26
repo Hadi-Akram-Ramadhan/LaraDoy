@@ -87,7 +87,17 @@ Yo, welcome ke LaraDoy! Framework PHP simpel tapi powerful, terinspirasi dari La
    php -S localhost:8000
    ```
 
-5. Buka browser, ketik `http://localhost:8000/users`
+5. Setup .htaccess
+   (untuk yang bagian "RewriteBase /nama-direktori-projek-kamu/", itu diubah sesuai dengan nama folder/direktori projek lo agar sesuai dengan setup projek lo)
+   ```
+   RewriteEngine On
+   RewriteBase /nama-direktori-projek-lo/ 
+   RewriteCond %{REQUEST_FILENAME} !-f
+   RewriteCond %{REQUEST_FILENAME} !-d
+   RewriteRule ^(.*)$ index.php?url=$1 [QSA,L]
+   ```
+
+7. Buka browser, ketik `http://localhost:8000/users`
 
 ## Struktur Project
 
