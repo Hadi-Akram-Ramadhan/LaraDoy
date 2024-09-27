@@ -11,7 +11,7 @@
  */
 return [
     'host' => 'localhost',
-    'database' => 'framework',
-    'username' => 'root',
-    'password' => ''
+    'database' => 'nama_db_lu',
+    'username' => 'username_lu',
+    'password' => 'pass_lu'
 ];

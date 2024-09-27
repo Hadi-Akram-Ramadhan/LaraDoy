@@ -14,15 +14,15 @@
  */
 require_once 'core/Controller.php';
 
-class HomeController extends Controller {
-    public function index() {
-        $stmt = $this->db->query("SELECT * FROM users LIMIT 5");
-        $users = $stmt->fetchAll();
-        
-        $this->view('home', ['name' => 'Hadi', 'users' => $users]);
+class HomeController extends Controller
+{
+    public function index()
+    {
+        $this->view('home', ['name' => 'Hadi']);
     }
 
-    public function about() {
+    public function about()
+    {
         $this->view('about');
     }
 }
